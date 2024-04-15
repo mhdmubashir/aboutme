@@ -1,4 +1,4 @@
-Certainly! Here's a README template for your GitHub profile:
+
 
 ---
 
@@ -24,10 +24,11 @@ I'm a passionate Mobile Application Developer currently pursuing my 1st year deg
 
 ## 📫 How to reach me
 - **Email:** mubashirmuhammed547@gmail.com
+- **LinkedIn:** [Muhammed Mubashir](https://www.linkedin.com/in/muhammed-mubashir-399070251)
 
 ## ⚡ Fun fact
 I enjoy experimenting with different tech stacks and building projects that solve real-world problems.
 
 ---
 
-Feel free to customize it further according to your preferences!
+Feel free to copy and paste it into your README.md file on GitHub!
